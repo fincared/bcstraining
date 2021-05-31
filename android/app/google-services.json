@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "700079462396",
+    "firebase_url": "https://bcstraining-db.firebaseio.com",
+    "project_id": "bcstraining-db",
+    "storage_bucket": "bcstraining-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700079462396:android:2baaa28e22f32a20438479",
+        "android_client_info": {
+          "package_name": "pe.edu.upeu.bcstraining"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700079462396-b5ufm4n9ajj4dtsstd7but44cpa3o1q9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pe.edu.upeu.bcstraining",
+            "certificate_hash": "0b5490fa3f3d757aa1b574570c0b7fae3d644279"
+          }
+        },
+        {
+          "client_id": "700079462396-h2v3bd9bd105e3mi98nda63bdt0a9klf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG9Ab_kjvvovRM8JV8euAYqxr9DBnKMTc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700079462396-h2v3bd9bd105e3mi98nda63bdt0a9klf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
